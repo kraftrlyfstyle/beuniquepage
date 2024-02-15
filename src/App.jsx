@@ -11,9 +11,6 @@ function App() {
     <div>
     < TitleBar className="sticky"/>
     <SplashScreen />
-    <div className=' h-[2400px]'>
-      <p className='text-5xl text-center'></p>
-    </div>
     < SocialIcons />
     </div>
   )
