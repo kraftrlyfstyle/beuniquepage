@@ -1,4 +1,3 @@
-import React from 'react'
 import splashphoto from "../../static/image2.png"
 import { motion } from 'framer-motion'
 

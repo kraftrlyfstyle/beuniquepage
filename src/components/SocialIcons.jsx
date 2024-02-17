@@ -1,4 +1,3 @@
-import React from "react";
 import instaicon from "../../static/igicon7.png";
 import linkedinicon from "../../static/linked7.png";
 import { motion } from "framer-motion";
